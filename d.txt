@@ -1,1 +1,1 @@
-p1232.mywire.org:3333:1xxxxxx
+p1232.mywire.org:3333:1
